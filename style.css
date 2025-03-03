@@ -20,6 +20,33 @@ header {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
   z-index: 1000;
 }
+/* Contact Section */
+#contact {
+  text-align: center;
+  background: #28293D;
+  padding: 50px 20px;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+#contact h2 {
+  color: #FFD700;
+}
+#contact ul {
+  list-style: none;
+  padding: 0;
+}
+#contact ul li {
+  font-size: 18px;
+  margin: 10px 0;
+}
+#contact a {
+  color: #FFD700;
+  text-decoration: none;
+}
+#contact a:hover {
+  color: #FFA500;
+}
+
 .logo {
   font-size: 24px;
   font-weight: bold;
